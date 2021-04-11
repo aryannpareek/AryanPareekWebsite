@@ -104,7 +104,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/aryan-pareek-551465183/',
+      url: 'https://www.linkedin.com/in/aryanpareek/',
     },
     {
       id: nanoid(),
