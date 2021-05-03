@@ -31,8 +31,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'war2.png',
-    title: 'Casino "War" Card Game',
-    info: 'Casino style "War" card game for iOS. Built with Xcode and Swift.',
+    title: '"War" Card Game',
+    info: '"War" card game for iOS. Built with Xcode and Swift.',
     info2: '',
     url: 'https://github.com/aryannpareek/WarCardGame',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
@@ -40,8 +40,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'slots.png',
-    title: 'Casino "Slots" Game',
-    info: 'Casino style "Slots" game for iOS. Built with Xcode and Swift.',
+    title: '"Slots" Matching Game',
+    info: '"Slots" matching game for iOS. Built with Xcode and Swift.',
     info2: '',
     url: 'https://github.com/aryannpareek/CasinoSlotsGame',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
