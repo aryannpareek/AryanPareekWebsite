@@ -56,24 +56,7 @@ export const projectsData = [
     url: 'https://github.com/aryannpareek/2048-Game-Java',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'huff.png',
-    title: 'Huffman Coding',
-    info: 'A file compressor and uncompressor I made in C++ using the Huffman Coding technique.',
-    info2: '',
-    url: 'https://github.com/aryannpareek/HuffmanCoding',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'graph.png',
-    title: 'Graphs',
-    info: 'My C++ implementation of a graph which represents networks of connected individuals.',
-    info2: '',
-    url: 'https://github.com/aryannpareek/Graphs',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  //Add more projects here
 ];
 
 // CONTACT DATA
