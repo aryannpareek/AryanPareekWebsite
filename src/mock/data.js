@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'pfp.jpg',
   paragraphOne:
-    'I am currently a junior at UC San Diego pursuing my B.S. degree in Computer Science. Through my prior coursework and personal projects, I have gained experience with Java, C++, C, Python, ARM, Bash, debugging and advanced data structures. Working as a leader in my past internships has sharpened my ability to learn in a fast-paced environment, be an effective communicator, and make good technical judgements. I’m result-oriented and strive to solve problems through innovative solutions.',
+    'I am currently a junior at UC San Diego pursuing my B.S. degree in Computer Science. Through my prior coursework and personal projects, I have gained experience with Java, Python, C++, C, ARM, Bash, debugging and advanced data structures. Working as a leader in my past internships has sharpened my ability to learn in a fast-paced environment, be an effective communicator, and make good technical judgements. I’m result-oriented and strive to solve problems through innovative solutions.',
   paragraphTwo:
     'My superpowers include smiling in the most difficult situations and getting stuff done!',
   paragraphThree: '\0',
@@ -28,6 +28,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'bujo.png',
+    title: 'Bullet Journal Web App',
+    info: 'A bullet journal web app built by my team and I for our UCSD CSE 110 project. My contributions for this project included working as a front-end developer with HTML, CSS, and JavaScript. Some of my contributions consisted of styling and developing the daily log, weekly log, and tags. Additionally, I helped develop the media section to integrate YouTube, Pinterest, and SoundCloud support.',
+    info2: 'Click the link below or the screenshot to the right for a live demo!',
+    url: 'https://cse110-sp21-group31.netlify.app/daily_log', 
+    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'war2.png',
@@ -56,7 +65,7 @@ export const projectsData = [
     url: 'https://github.com/aryannpareek/2048-Game-Java',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
-  //Add more projects here
+  //TODO
 ];
 
 // CONTACT DATA
