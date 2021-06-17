@@ -30,7 +30,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'bujo.png',
+    img: 'bujo2.png',
     title: 'Bullet Journal Web App',
     info: 'A bullet journal web app built by my team and I for our UCSD CSE 110 project. My contributions for this project included working as a front-end developer with HTML, CSS, and JavaScript. Some of my contributions consisted of styling and developing the daily log, weekly log, and tags. Additionally, I helped develop the media section to integrate YouTube, Pinterest, and SoundCloud support.',
     info2: 'Click the link below or the screenshot to the right for a live demo!',
