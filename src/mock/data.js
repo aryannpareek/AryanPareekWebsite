@@ -19,10 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'pfp.jpg',
   paragraphOne:
-    'I am currently a junior at UC San Diego pursuing my B.S. degree in Computer Science. Through my prior coursework and personal projects, I have gained experience with Java, Python, C++, C, ARM, Bash, debugging and advanced data structures. Working as a leader in my past internships has sharpened my ability to learn in a fast-paced environment, be an effective communicator, and make good technical judgements. I’m result-oriented and strive to solve problems through innovative solutions.',
+    'I am currently a junior at UC San Diego pursuing my B.S. degree in Computer Science. Through my prior coursework, personal projects, and internships, I have gained experience with Java, Python, C++, C, Swift, ARM, x86, and Bash. Additionally, I\'m currently learning front-end development (HTML, CSS, and JavaScript).',
   paragraphTwo:
-    'My superpowers include smiling in the most difficult situations and getting stuff done!',
-  paragraphThree: '\0',
+    'Furthermore, working as a leader in my past projects and internships has sharpened my ability to learn in a fast-paced environment, be an effective communicator, and make good technical judgements. I’m result-oriented and strive to solve problems through innovative solutions.',
+  paragraphThree: 'In my free time, you can catch me playing (and watching) numerous sports such as football, basketball, and tennis. I enjoy being outdoors and travelling, whether it\'s hiking a new trail at a national park or booking a spontaenous vacation with my freinds. I value new expereinces and getting comfortable with being uncomfortable.',
   resume: 'https://docs.google.com/document/d/1DiFH86dFq1e6QAw7why-1j5Oetp2giV6cNMbVAQKLLU/edit', // if no resume, the button will not show up
 };
 
