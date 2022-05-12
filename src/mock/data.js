@@ -28,7 +28,7 @@ export const aboutData = {
 };
 
 // PROJECTS DATA
-export const projectsData = [
+/* export const projectsData = [
   {
     id: nanoid(),
     img: 'staffing.png',
@@ -58,11 +58,11 @@ export const projectsData = [
   },
 
   //TODO
-];
+]; */
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Need something more direct? Let\'s collaborate!',
+  cta: 'Need something more direct? Let\'s collaborate! Shoot me an email and check out my socials down below!',
   btn: 'Email Me',
   email: 'apareek369@gmail.com',
 };
