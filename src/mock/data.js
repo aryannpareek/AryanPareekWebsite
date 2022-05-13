@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'in.jpg',
+    img: 'qldb.png',
     title: 'Test',
     info: 'More test',
   },
