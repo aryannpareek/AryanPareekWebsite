@@ -32,8 +32,9 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'qldb.png',
-    title: 'Test',
-    info: 'More test',
+    title: 'Current Role: Amazon SDE Intern',
+    info: 'For Summer 2022, I\'ll be interning working at Amazon as a Software Development Engineering Intern for the Quantum Ledger Database Team (QLDB). QLDB is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. Use cases include storing financial transactions, reconciling supply chain systems, maintaining claims history, and centralizing digital records.',
+    url: 'https://aws.amazon.com/qldb/?trk=b06167e1-43fa-471a-8705-6a37423dd3e1&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P%7CPS-GO%7CNon-Brand%7CDesktop%7CSU%7CDatabase%7CSolution%7CUS%7CEN%7CDSA&ef_id=Cj0KCQjw4PKTBhD8ARIsAHChzRLSG6UCXPLnVWMqYshW9YK1-w5KPplEfAJ9ylVAxMUi6xNrZ5aNfrkaAuwvEALw_wcB:G:s&s_kwcid=AL!4422!3!579408104777!!!g!!',
   },
   /* {
     id: nanoid(),
