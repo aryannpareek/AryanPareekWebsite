@@ -28,9 +28,13 @@ export const aboutData = {
 };
 
 // PROJECTS DATA
-export const projectsData = [];
-/* export const projectsData = [
+export const projectsData = [
   {
+    id: nanoid(),
+    title: 'Test',
+    info: 'More test',
+  },
+  /* {
     id: nanoid(),
     img: 'staffing.png',
     title: 'STAFFing Tool - System for Tracking and Allocating FTEs Forecasting',
@@ -58,8 +62,8 @@ export const projectsData = [];
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 
-  //TODO
-]; */
+  //TODO */
+];
 
 // CONTACT DATA
 export const contactData = {
