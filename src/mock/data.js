@@ -28,6 +28,7 @@ export const aboutData = {
 };
 
 // PROJECTS DATA
+export const projectsData = [];
 /* export const projectsData = [
   {
     id: nanoid(),
