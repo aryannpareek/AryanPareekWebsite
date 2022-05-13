@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'I am currently a junior at UC San Diego pursuing my B.S. degree in Computer Science. Through my prior coursework, personal projects, and internships, I have gained experience with Java, Python, C++, C, Swift, ARM, x86, and Bash. Additionally, I\'m currently learning front-end development (HTML, CSS, and JavaScript).',
+    'I am currently a senior at UC San Diego pursuing my B.S. degree in Computer Science. Through my prior coursework, personal projects, and internships, I have performed development with Java, Python, C++, C, Swift, ARM, and x86 assembly. Additionally, I\'ve gained hands-on expereince with tools such as git, GDB, Valgrind, MATLAB, and R. I\'m currently learning software development in Kotlin.',
   paragraphTwo:
-    'Furthermore, working as a leader in my past projects and internships has sharpened my ability to learn in a fast-paced environment, be an effective communicator, and make good technical judgements. I’m result-oriented and strive to solve problems through innovative solutions.',
+    'Working as a leader in my past projects and internships has sharpened my ability to learn in a fast-paced environment, be an effective communicator, and make good technical judgements. I\'m result-oriented and strive to solve problems through innovative solutions.',
   paragraphThree: 'In my free time, you can catch me playing (and watching) numerous sports such as football, basketball, and tennis. I enjoy being outdoors and travelling, whether it\'s hiking at national parks or booking spontaneous vacations with my freinds. I value new expereinces and getting comfortable with being uncomfortable.',
   resume: 'https://docs.google.com/document/d/1DiFH86dFq1e6QAw7why-1j5Oetp2giV6cNMbVAQKLLU/edit', 
   // if no resume, the button will not show up
@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'qldb.png',
     title: 'Current Role: Amazon SDE Intern',
-    info: 'For Summer 2022, I\'ll be interning working at Amazon as a Software Development Engineering Intern for the Quantum Ledger Database Team (QLDB). QLDB is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. Use cases include storing financial transactions, reconciling supply chain systems, maintaining claims history, and centralizing digital records.',
+    info: 'For Summer 2022, I\'ll be working at Amazon as a Software Development Engineering Intern for the Quantum Ledger Database Team (QLDB). QLDB is a fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. Use cases include storing financial transactions, reconciling supply chain systems, maintaining claims history, and centralizing digital records.',
     url: 'https://aws.amazon.com/qldb/?trk=b06167e1-43fa-471a-8705-6a37423dd3e1&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P%7CPS-GO%7CNon-Brand%7CDesktop%7CSU%7CDatabase%7CSolution%7CUS%7CEN%7CDSA&ef_id=Cj0KCQjw4PKTBhD8ARIsAHChzRLSG6UCXPLnVWMqYshW9YK1-w5KPplEfAJ9ylVAxMUi6xNrZ5aNfrkaAuwvEALw_wcB:G:s&s_kwcid=AL!4422!3!579408104777!!!g!!',
   },
   /* {
