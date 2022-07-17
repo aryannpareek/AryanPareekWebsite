@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Working as a leader in my past projects and internships has sharpened my ability to learn in a fast-paced environment, be an effective communicator, and make good technical judgements. I\'m result-oriented and strive to solve problems through innovative solutions.',
   paragraphThree: 'In my free time, you can catch me playing (and watching) numerous sports such as football, basketball, and tennis. I enjoy being outdoors and travelling, whether it\'s hiking at national parks or booking spontaneous vacations with my freinds. I value new expereinces and getting comfortable with being uncomfortable.',
-  resume: 'https://docs.google.com/document/d/1DiFH86dFq1e6QAw7why-1j5Oetp2giV6cNMbVAQKLLU/edit', 
+  resume: 'https://docs.google.com/document/d/1O2gWozh2h-UhZomyWPDtEtpR4eVPppfpL_5H5w63dKU/edit?usp=sharing', 
   // if no resume, the button will not show up
 };
 
